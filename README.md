@@ -1,5 +1,5 @@
 # solutions
-this is solution to one of the problems appeared in GOOGLE APAC test
+this is my c++ solution to one of the problems appeared in GOOGLE APAC test
 problem
 leader has to be choosen among the candidates
 candidate is winner if its name  have
@@ -13,4 +13,5 @@ second line contains first candidate name
 third line contins second candidate name
 
 
-
+link of problem statement:
+https://code.google.com/codejam/contest/11274486/dashboard
