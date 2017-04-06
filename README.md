@@ -6,6 +6,8 @@ candidate is winner if its name  have
 1)more number of different alphabets tha others
 2)if the numbers of different alphabets are same then candidate whose name comes first alphabetically is winner
 
+inputs
+inputs must be in uppercase only
 
 solution
 first line contains number of test cases
